@@ -1,0 +1,10 @@
+blue orange black red green yellow teal white tan pink
+blue orange black red green yellow teal white tan
+blue orange black red green yellow teal white
+blue orange black red green yellow teal
+blue orange black red green yellow
+blue orange black red green
+blue orange black red
+blue orange black
+blue orange
+blue
